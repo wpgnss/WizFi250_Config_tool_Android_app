@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WizFi250_Configuration</string>
+    <string name="action_settings">WIZnet</string>
+
+    <string name="module_name">WizFi250</string>
+    <string name="module_defined_SSID">WizFi250_AP_</string>
+    <string name="module_defined_PASS">123456789</string>
+
+    <string name="res_title_step1">1. AP 설정</string>
+    <string name="res_title_step2">2. 스캔</string>
+    <string name="res_title_step3">3. 연결</string>
+    <string name="res_title_step4">4. Air Command</string>
+
+    <string name="res_btn_SAVE">설정 정보 저장</string>
+    <string name="res_btn_FIND">WizFi250 AP 스캔</string>
+    <string name="res_btn_JOIN">WizFi250에 연결</string>
+    <string name="res_btn_SETAIR">Air Command 입력</string>
+
+
+</resources>
